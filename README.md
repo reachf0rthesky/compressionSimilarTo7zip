@@ -5,6 +5,8 @@ Date: 05/09/2022
 
 Program is still in testing/developing phase
 
+Comments currently in german but it will be changed.
+
 Developmentnotes:
 
 -7zip likely programm in c#
